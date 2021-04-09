@@ -1,0 +1,2 @@
+hn/edu/kmm_aplicacion/androidApp/BuildConfig.java
+ hn.edu.kmm_aplicacion.androidApp.BuildConfig

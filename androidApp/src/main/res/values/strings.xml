@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Numeros  Factoriales</string>
+    <string name="txvnum"> Factorial del Numero es: %s</string>
+    <string name="txvNumero">Ingrese un Numero</string>
+    <string name="txvUsuario">Nombre de Usuario</string>
+    <string name="btnFactorial">Factorial</string>
+    <string name="txvTitulo">Numeros Factoriales</string>
+    <string name="imageView">TODO</string>
+    <string name="txtNumero">0</string>
+</resources>

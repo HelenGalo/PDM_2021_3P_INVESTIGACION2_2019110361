@@ -1,0 +1,2 @@
+hn/edu/kmm_aplicacion/shared/BuildConfig.java
+ hn.edu.kmm_aplicacion.shared.BuildConfig
